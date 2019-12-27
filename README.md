@@ -1,2 +1,4 @@
-# Remote-sensing-hyperspectral-
-This repository is created to make a collection of the algorithms and codes used for analysing hyperspectral images. It would be helpful for the scientists, researchers, and individuals who are working with remote sensing data, specially hyperspectral images, or in general, doing image processing and computer visions.   
+# Independent component analysis for dimensionality reduction of hyperspectral images
+This code is based on the paper entitled " Band Selection Using Independent Component Analysis for Hyperspectral
+Image Processing", Hongtao Du, et al. 2003" 
+It is a preprocessing step for analysing hyperspectral images used by remote sensing experts and scientists
